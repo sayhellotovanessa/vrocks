@@ -1,7 +1,7 @@
 ---
 layout: page
-title: trabalho
-permalink: /trabalho/
+title: publicações
+permalink: /publicacoes/
 ---
 
 
