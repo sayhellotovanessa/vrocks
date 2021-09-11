@@ -9,7 +9,7 @@ highlight:
 ---
 
 
-Vanessa Guedes é escritora de ficção especulativa, podcaster no **[Incêndio na Escrivaninha](https://opodcastedelas.com.br/incendionaescrivaninha/)**, editora e tradutora Português-Inglês na **[Eita! Magazine](https://www.eitamagazine.com)**.
+Vanessa Guedes é escritora de ficção especulativa, podcaster no **[Incêndio na Escrivaninha](https://opodcastedelas.com.br/incendionaescrivaninha/)**, editora e tradutora PT-EN na **[Eita! Magazine](https://www.eitamagazine.com)**.
 
 
 
