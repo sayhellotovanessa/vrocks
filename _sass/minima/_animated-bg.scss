@@ -1,0 +1,21 @@
+.animated-bg {
+	background: linear-gradient(-45deg, #010b19, #210535, #035046, #011d13);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.stars {
+	background-image: url('../../assets/images/stars.gif');
+}

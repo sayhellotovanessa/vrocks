@@ -3,27 +3,28 @@
 // Fonts
 
 @font-face {
-  font-family: 'Inter';
-  src: url('../assets/fonts/Inter-Black.ttf') format('truetype'),
-       url('../assets/fonts/Inter-Black.eot'), 
-       url('../assets/fonts/Inter-Black.svg#font'),
-       url('../assets/fonts/Inter-Black.woff'), 
-       url('../assets/fonts/Inter-Black.woff2');
+  font-family: 'Elite';
+  src: url('../assets/fonts/SpecialElite-Regular.ttf') format('truetype');
+      //  url('../assets/fonts/Inter-Black.eot'), 
+      //  url('../assets/fonts/Inter-Black.svg#font'),
+      //  url('../assets/fonts/Inter-Black.woff'), 
+      //  url('../assets/fonts/Inter-Black.woff2');
 
 }
 
+
 @font-face {
-  font-family: 'Patua';
-  src:url('../assets/fonts/Patua.ttf'), format('truetype');
+  font-family: 'Merriweather';
+  src:url('../assets/fonts/Merriweather-Regular.ttf'), format('truetype');
 }
 // Define defaults for each variable.
 
-$base-font-family: 'Patua', sans-serif !default;
+$base-font-family: 'Merriweather', serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
-$base-heading: 'Inter', sans-serif;
+$base-heading: 'Elite', sans-serif;
 
 $spacing-unit:     30px !default;
 
@@ -34,7 +35,7 @@ $content-bg:     #fff !default;
 
 $text-color:       #111 !default;
 $background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%) !default;
-$brand-color:      #e4008b !default;
+$brand-color:      #111 !default;
 $links-color:      #7b5cdc !default;
 
 $grey-color:       #828282 !default;
@@ -70,5 +71,6 @@ $on-laptop:        800px !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+  "minima/animated-bg"
 ;

@@ -1,6 +1,36 @@
 /**
  * Site header
  */
+.logo-topo {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  img {
+    max-width: 300px;
+  }
+ }
+
+ .call-to-action {
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   margin-bottom: 20px;
+   background: $brand-color;
+
+   strong {
+     color: white;
+
+     span {
+            font-size: 30px;
+       
+     }
+   }
+ }
+ .post-home {
+   p {
+     font-size: 28px;
+   }
+ }
 .site-header {
   color: $text-color;
   border-bottom: $dark-line-height solid $dark-line;
@@ -13,20 +43,16 @@
 
   @include media-query($on-palm){
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: sticky;
   }
 
 }
 
 .site-title {
   @include relative-font-size(2.2);
-  font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   margin-bottom: 0;
   float: left;
-
-  -webkit-text-stroke: 2px $dark-line;
-  -webkit-text-fill-color: $brand-color;
 
 }
 
@@ -34,9 +60,12 @@ h1, h2, h3, h4 {
   font-family: $base-heading;
   color: $brand-color;
 }
-
+.top-menu {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
 .site-nav {
-  float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -50,6 +79,7 @@ h1, h2, h3, h4 {
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    font-weight: bolder;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -111,6 +141,17 @@ h1, h2, h3, h4 {
   }
 }
 
+/** author media **/
+
+.author-image {
+  display: flex;
+  justify-content: center;
+  padding: $spacing-unit;
+
+  img {
+    max-height: 400px;
+  }
+}
 
 
 /**
@@ -121,7 +162,6 @@ h1, h2, h3, h4 {
   padding: $spacing-unit 0;
 
   a:hover {
-    color: $brand-color;
     text-decoration: underline;
   }
 
@@ -286,6 +326,14 @@ h1, h2, h3, h4 {
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
+    }
+  }
+
+  ul {
+    li {
+      list-style: none;
+      background: aliceblue;
+      margin-bottom: 20px;
     }
   }
 }
