@@ -109,14 +109,11 @@ a {
     color: $text-color;
     text-decoration: underline;
   }
+  .social-media-list &, .social-media-list &:hover {
+    color: white;
+  } 
 
-  .social-media-list &:hover {
-    text-decoration: none;
 
-    .username {
-      text-decoration: underline;
-    }
-  }
 }
 
 

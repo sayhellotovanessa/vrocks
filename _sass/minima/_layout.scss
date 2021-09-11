@@ -9,6 +9,28 @@
     max-width: 300px;
   }
  }
+
+ .call-to-action {
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   margin-bottom: 20px;
+   background: $brand-color;
+
+   strong {
+     color: white;
+
+     span {
+            font-size: 30px;
+       
+     }
+   }
+ }
+ .post-home {
+   p {
+     font-size: 28px;
+   }
+ }
 .site-header {
   color: $text-color;
   border-bottom: $dark-line-height solid $dark-line;
@@ -140,7 +162,6 @@ h1, h2, h3, h4 {
   padding: $spacing-unit 0;
 
   a:hover {
-    color: $brand-color;
     text-decoration: underline;
   }
 
@@ -305,6 +326,14 @@ h1, h2, h3, h4 {
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
+    }
+  }
+
+  ul {
+    li {
+      list-style: none;
+      background: aliceblue;
+      margin-bottom: 20px;
     }
   }
 }
