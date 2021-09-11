@@ -57,6 +57,7 @@ h1, h2, h3, h4 {
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    font-weight: bolder;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
