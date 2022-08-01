@@ -7,7 +7,7 @@ permalink: /contato/
 
 email: 
 
-**[say hello to vanessa AT gmail com](mailto:sayhellotovanessa@gmail.com)**
+**[sayhellotovanessa@gmail.com](mailto:sayhellotovanessa@gmail.com)**
 
 redes sociais:
 
