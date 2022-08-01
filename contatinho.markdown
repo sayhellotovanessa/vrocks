@@ -7,7 +7,7 @@ permalink: /contato/
 
 email: 
 
-**[vanessa@avessaeavulsa.com](mailto:vanessa@avessaeavulsa.com)**
+**[sayhellotovanessa@gmail.com](mailto:sayhellotovanessa@gmail.com)**
 
 redes sociais:
 

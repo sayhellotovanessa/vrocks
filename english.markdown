@@ -12,7 +12,7 @@ As a literary translator, she translated Machado de Assis’ short story ‘The 
 
 Vanessa is also fluent in programming languages; she has been working as a programmer in Stockholm, Sweden, since 2015.
 
-contact: **[vanessa@avessaeavulsa.com](mailto:vanessa@avessaeavulsa.com)**
+contact: **[sayhellotovanessa@gmail.com](mailto:sayhellotovanessa@gmail.com)**
 
 
 
