@@ -15,7 +15,7 @@ Vanessa Guedes é escritora de ficção especulativa, podcaster no **[Incêndio 
 
 Tradução, leitura crítica e ghostwriting.
 
-Consulte a **[página de serviços](/servicos.html)** para mais detalhes.
+Consulte a **[página de serviços](/servicos)** para mais detalhes.
 
 
 

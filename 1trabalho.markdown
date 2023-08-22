@@ -23,6 +23,10 @@ permalink: /publicacoes/
 
   * Conto. Newsletter Faísca, terceira temporada, episódio 9, Novembro de 2020 - Horror. 
 
+* **["Complexo Solar"](https://www.rocketeditorial.com.br/veludo-e-sangue-1)**
+
+  * Conto. Coletânea Veludo & sangue, Rocket Editorial. 2021 - Horror.
+
 * *"A felicidade de Ana K."*, 
   * Conto. O ninho de serpentes, editora Clube Hussardos, 2014. - Narrativa ficcional.
 
